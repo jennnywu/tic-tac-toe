@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jenny\\Desktop\\tic-tac-toe\\template.csproj",
-      "projectName": "template",
-      "projectPath": "C:\\Users\\jenny\\Desktop\\tic-tac-toe\\template.csproj",
+      "projectUniqueName": "C:\\Users\\jenny\\Desktop\\tic-tac-toe\\tictactoe.csproj",
+      "projectName": "tictactoe",
+      "projectPath": "C:\\Users\\jenny\\Desktop\\tic-tac-toe\\tictactoe.csproj",
       "packagesPath": "C:\\Users\\jenny\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jenny\\Desktop\\tic-tac-toe\\obj\\",
       "projectStyle": "PackageReference",

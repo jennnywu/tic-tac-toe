@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oBfm1bJL5wGo03ghXPWuTDrTrY19dHYT5n1FHnwXFU686GtfIQcB/PaGe+FderRY8P5j4a/TSVKHNbI1iUwuxg==",
+  "dgSpecHash": "Qm/tc8a7R8QWHV2lnWs41BQXeWvr3upv/ZCdilp59ucl1k8jfN845W8GORH3zJiQMJWlN1/0ZGImJVZDRiIgGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jenny\\Desktop\\tic-tac-toe\\template.csproj",
+  "projectFilePath": "C:\\Users\\jenny\\Desktop\\tic-tac-toe\\tictactoe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
