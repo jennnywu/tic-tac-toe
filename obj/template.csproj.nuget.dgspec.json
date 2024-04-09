@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jenny\\Downloads\\bme121\\christmas game - tic tac toe\\template.csproj": {}
+    "C:\\Users\\jenny\\Desktop\\bme121\\tic tac toe\\template.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jenny\\Downloads\\bme121\\christmas game - tic tac toe\\template.csproj": {
+    "C:\\Users\\jenny\\Desktop\\bme121\\tic tac toe\\template.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenny\\Downloads\\bme121\\christmas game - tic tac toe\\template.csproj",
+        "projectUniqueName": "C:\\Users\\jenny\\Desktop\\bme121\\tic tac toe\\template.csproj",
         "projectName": "template",
-        "projectPath": "C:\\Users\\jenny\\Downloads\\bme121\\christmas game - tic tac toe\\template.csproj",
+        "projectPath": "C:\\Users\\jenny\\Desktop\\bme121\\tic tac toe\\template.csproj",
         "packagesPath": "C:\\Users\\jenny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenny\\Downloads\\bme121\\christmas game - tic tac toe\\obj\\",
+        "outputPath": "C:\\Users\\jenny\\Desktop\\bme121\\tic tac toe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jenny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

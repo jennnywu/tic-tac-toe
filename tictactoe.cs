@@ -112,7 +112,6 @@ namespace Bme121
             // welcome
             WriteLine( );
             WriteLine("Welcome to Tic Tac Toe!");
-            WriteLine("Win this game to collect Frosty's nose");
             WriteLine( );
             
             // game instructions
@@ -301,7 +300,7 @@ namespace Bme121
                     (game[0, 0] == "X" && game[1, 1] == "X" && game[2, 2] == "X" ) || // top left diagonal
                     (game[0, 2] == "X" && game[1, 1] == "X" && game[2, 0] == "X" ) )  // top right diagonal
                 {
-                    return "Game over: you win! :) \nYou've collected Frosty's nose!";
+                    return "Game over: you win! :)";
                 }
                 else if( (game[0, 0] == "O" && game[0, 1] == "O" && game[0, 2] == "O" ) || // row 1
                          (game[1, 0] == "O" && game[1, 1] == "O" && game[1, 2] == "O" ) || // row 2
@@ -312,9 +311,9 @@ namespace Bme121
                          (game[0, 0] == "O" && game[1, 1] == "O" && game[2, 2] == "O" ) || // top left diagonal
                          (game[0, 2] == "O" && game[1, 1] == "O" && game[2, 0] == "O" ) )  // top right diagonal
                 {
-                    return "Game over: you lose! :( \nPlay again to collect Frosty's nose";
+                    return "Game over: you lose! :(";
                 }
-                else return "Game over: you tie :/ \nPlay again to collect Frosty's nose";
+                else return "Game over: you tie :/";
             }
             
             bool CheckTie()

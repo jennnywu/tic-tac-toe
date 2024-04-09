@@ -1,4 +1,3 @@
-C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\obj\Debug\net5.0\template.csproj.AssemblyReference.cache
 C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\obj\Debug\net5.0\template.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\obj\Debug\net5.0\template.AssemblyInfoInputs.cache
 C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\obj\Debug\net5.0\template.AssemblyInfo.cs
@@ -8,7 +7,6 @@ C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\bin\Debug\net5.0\temp
 C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\bin\Debug\net5.0\template.runtimeconfig.json
 C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\bin\Debug\net5.0\template.runtimeconfig.dev.json
 C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\bin\Debug\net5.0\template.dll
-C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\bin\Debug\net5.0\ref\template.dll
 C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\bin\Debug\net5.0\template.pdb
 C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\obj\Debug\net5.0\template.dll
 C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\obj\Debug\net5.0\ref\template.dll
@@ -30,3 +28,5 @@ C:\Users\jenny\Downloads\bme121\christmas game - tic tac toe\obj\Debug\net5.0\te
 C:\Users\jenny\Downloads\bme121\christmas game - tic tac toe\obj\Debug\net5.0\ref\template.dll
 C:\Users\jenny\Downloads\bme121\christmas game - tic tac toe\obj\Debug\net5.0\template.pdb
 C:\Users\jenny\Downloads\bme121\christmas game - tic tac toe\obj\Debug\net5.0\template.genruntimeconfig.cache
+C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\obj\Debug\net5.0\template.sourcelink.json
+C:\Users\jenny\Desktop\bme121\christmas game - tic tac toe\obj\Debug\net5.0\refint\template.dll
