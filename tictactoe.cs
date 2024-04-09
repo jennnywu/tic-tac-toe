@@ -300,7 +300,7 @@ namespace Bme121
                     (game[0, 0] == "X" && game[1, 1] == "X" && game[2, 2] == "X" ) || // top left diagonal
                     (game[0, 2] == "X" && game[1, 1] == "X" && game[2, 0] == "X" ) )  // top right diagonal
                 {
-                    return "Game over: you win! :)";
+                    return "Game over: you win! test :)";
                 }
                 else if( (game[0, 0] == "O" && game[0, 1] == "O" && game[0, 2] == "O" ) || // row 1
                          (game[1, 0] == "O" && game[1, 1] == "O" && game[1, 2] == "O" ) || // row 2
